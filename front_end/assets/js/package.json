@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "hashmap": "^2.4.0"
+  },
+  "name": "pages",
+  "version": "1.0.0",
+  "main": "base_comp_animations.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

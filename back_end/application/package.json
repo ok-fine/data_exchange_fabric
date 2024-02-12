@@ -1,0 +1,26 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fabric-ca-client": "^2.2.5",
+    "fabric-network": "^2.2.5",
+    "formidable": "^1.2.2",
+    "fs": "*",
+    "hashmap": "^2.4.0",
+    "js-yaml": "^4.0.0",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "node-rsa": "^1.1.1",
+    "path": "^0.12.7",
+    "sha256": "^0.2.0",
+    "silly-datetime": "^0.1.2"
+  },
+  "description": ""
+}

@@ -1,0 +1,6 @@
+
+
+Cloud:
+  Name: local
+  Host: 127.0.0.1
+  DataPath: ../../../cloud
